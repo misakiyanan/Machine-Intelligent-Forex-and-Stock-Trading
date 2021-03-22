@@ -1,2 +1,2 @@
-### Exploration or Techical Analysis Indicators
-* package: TA-Lib
+### Exploration of Techical Analysis Indicators
+* package: TA-Lib, mplfinance
